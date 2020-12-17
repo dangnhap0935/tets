@@ -1,10 +1,16 @@
 
 <?php
+
+$DBHOST = "klbcedmmqp7w17ik.cbetxkdyhwsb.us-east-1.rds.amazonaws.com"; // Set your database host here
+$DBUSER = "f2p7fm70uw1h5dn9"; // Set your database user here
+$DBNAME = "r9z7o5h5tm8avvi3"; // Set your database name here
+$DBPW =  "mrftcqbngqn33j05"; // Set your database password here
+/*
 $DBHOST = getenv('DBHOST'); // Set your database host here
 $DBUSER = getenv('DBUSER'); // Set your database user here
 $DBNAME = getenv('DBNAME'); // Set your database name here
 $DBPW =  getenv('DBPASS'); // Set your database password here
-
+*/
 /*
 
 $BLOCK_NAME = "uet_chat";
